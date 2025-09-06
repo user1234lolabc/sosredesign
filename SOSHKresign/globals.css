@@ -1,0 +1,19 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:var(--www-soshk-com-work-sans-semibold-font-weight),var(--soshk-com-work-sans-regular-font-weight),var(--www-soshk-com-work-sans-regular-font-weight),var(--soshk-com-semantic-label-font-weight),600,var(--soshk-com-work-sans-semibold-upper-font-weight),var(--soshk-com-work-sans-medium-font-weight),400|Rajdhani:var(--www-mws-soshk-com-semantic-label-font-weight),var(--www-mws-soshk-com-semantic-heading-4-font-weight),var(--www-mws-soshk-com-semantic-heading-3-font-weight),var(--www-mws-soshk-com-rajdhani-bold-font-weight),var(--www-mws-soshk-com-semantic-heading-6-font-weight),700,600,var(--www-mws-soshk-com-rajdhani-medium-font-weight),500,var(--www-mws-soshk-com-rajdhani-regular-font-weight),400,var(--www-mws-soshk-com-semantic-heading-5-font-weight),var(--www-mws-soshk-com-semantic-legend-font-weight)|Poppins:var(--soshk-com-semantic-heading-4-font-weight),var(--soshk-com-semantic-heading-1-font-weight),700,var(--www-soshk-com-poppins-bold-font-weight)|Roboto:var(--soshk-com-semantic-link-font-weight),var(--soshk-com-roboto-regular-font-weight),var(--soshk-com-semantic-button-font-weight),400,var(--soshk-com-roboto-semibold-font-weight),var(--soshk-com-roboto-medium-font-weight)|Inter:400,var(--www-mws-soshk-com-inter-regular-font-weight),var(--www-mws-soshk-com-semantic-button-font-weight)|Raleway:var(--www-mws-soshk-com-semantic-heading-2-font-weight),var(--www-mws-soshk-com-semantic-heading-1-font-weight),var(--www-mws-soshk-com-raleway-bold-font-weight),400,var(--www-mws-soshk-com-raleway-regular-font-weight),var(--www-mws-soshk-com-semantic-item-font-weight)|Roboto+Mono:700");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}

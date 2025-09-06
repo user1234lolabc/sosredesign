@@ -1,0 +1,50 @@
+.frame {
+  background-color: #00000080;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+}
+
+.frame .div-3 {
+  background-color: #00000080;
+  width: 159px;
+  height: 113px;
+  position: relative;
+}
+
+.frame .new-and-events {
+  position: absolute;
+  width: 136px;
+  height: 17px;
+  top: 13px;
+  left: 4px;
+}
+
+.frame .e-sign {
+  position: absolute;
+  width: 151px;
+  height: 38px;
+  top: 33px;
+  left: 8px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 1.00px;
+  line-height: 19.5px;
+}
+
+.frame .business-flow {
+  position: absolute;
+  height: 20px;
+  top: 77px;
+  left: 7px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 1.00px;
+  line-height: 19.5px;
+  white-space: nowrap;
+}
